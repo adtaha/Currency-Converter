@@ -13,5 +13,4 @@ Download app.py, and execute the program with an IDE or through the Operating Sy
   * Currency Converter API    
 
 # Example to Test Program
-* In the entry box type 10 and leave the drop-down menus in their default options (first option: United States Dollar (USD), second option: Euro (EUR)). Click convert and the result should be 8.24 Euros
-
+* In the entry box type 10 and select the first dropdown option to be: United States Dollar (USD) and the second option to be: Euro (EUR). Click convert and check the result against current exchange rates.
