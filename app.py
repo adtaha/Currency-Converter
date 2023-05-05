@@ -44,6 +44,7 @@ def convert_currency():
 # Build window
 root = tk.Tk()
 root.title("Currency Converter")
+root.iconbitmap("app_icon.ico")
 root.geometry("{}x{}".format(WIDTH, HEIGHT))
 
 c = CurrencyConverter()
